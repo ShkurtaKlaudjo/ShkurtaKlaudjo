@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 my name is Klaudjo Shkurta!
-I'm a self-taught **Software Engineer** with a passion for creating innovative and user-friendly web applications. I have a solid foundation in web development, backed by a 5 year work experience as Frontend Engineer.
+I'm a self-taught **Frontend Engineer | Vue 3 | Typescript** with a passion for creating innovative and user-friendly web applications. I have a solid foundation in web development, backed by a 5 year work experience as Frontend Engineer.
 
 ##
 ### 💼 Professional Experience
